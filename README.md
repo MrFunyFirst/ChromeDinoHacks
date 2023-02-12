@@ -8,3 +8,11 @@ fetch('https://raw.githubusercontent.com/MrFunyFirst/ChromeDinoHacks/master/chro
    .then(response => response.text())
    .then(text => eval(text))
 ```
+
+### Keybinds:
+```
+G = godmode switch
+P = pause game(then ENTER for resume)
+<- = T-Rex speed - 2
+-> = T-Rexspeed + 2
+```
