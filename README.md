@@ -14,5 +14,5 @@ fetch('https://raw.githubusercontent.com/MrFunyFirst/ChromeDinoHacks/master/chro
 G = godmode switch
 P = pause game(then ENTER for resume)
 <- = T-Rex speed - 2
--> = T-Rexspeed + 2
+-> = T-Rex speed + 2
 ```
